@@ -5,12 +5,6 @@ This repository is made to practice algorithm problems for the coding tests. Maj
 [Baekjoon Online Judge (BOJ)](https://www.acmicpc.net/), and are categorized by the algorithms which participants 
 are needed to solve with. </br>
 
-## Guideline
-The file must be made with following forms (e.g. `brute_force/esjo_14052.cpp`)
-- `[directory name]/[name]_[#prob in BOJ].cpp`
-- `[directory name]/[name]_[#prob in BOJ].py`
-
-
 ## Topics
 - [Greedy Algorithm](greedy)
 - [Brute Force](brute_force)
