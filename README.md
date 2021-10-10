@@ -6,7 +6,7 @@ This repository is made to practice algorithm problems for the coding tests. Maj
 are needed to solve with. </br>
 
 ## Guideline
-The file must be made with following forms
+The file must be made with following forms (e.g. `brute_force/esjo_14052.cpp`)
 - `[directory name]/[name]_[#prob in BOJ].cpp`
 - `[directory name]/[name]_[#prob in BOJ].py`
 
