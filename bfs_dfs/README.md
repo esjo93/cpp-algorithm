@@ -4,6 +4,7 @@ BFS DFS problems in [Baekjoon Online Judge(BOJ)](https://www.acmicpc.net/)
 
 ## Problems
 
+* DFS와 BFS [#1260](https://www.acmicpc.net/problem/1260) ✅
 * 숨바꼭질 [#1697](https://www.acmicpc.net/problem/1697) ✅
 * 미로 탐색 [#2178](https://www.acmicpc.net/problem/2178) ✅
 * 안전 영역 [#2468](https://www.acmicpc.net/problem/2468) ✅
