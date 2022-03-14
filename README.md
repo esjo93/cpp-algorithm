@@ -9,4 +9,5 @@ are needed to solve with. </br>
 - [Greedy Algorithm](greedy)
 - [Brute Force](brute_force)
 - [BFS DFS](bfs_dfs) ✅
+- [Dynamic Programming](dp)
 - [Samsung SW Test](samsung_swtest)
