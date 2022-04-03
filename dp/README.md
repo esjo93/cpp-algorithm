@@ -10,3 +10,4 @@ Dynamic programming problems in [Baekjoon Online Judge(BOJ)](https://www.acmicpc
 * 계단 오르기 [#2579](https://www.acmicpc.net/problem/2579) ✅
 * 1로 만들기 [#1463](https://www.acmicpc.net/problem/1463) ✅
 * 쉬운 계단 수 [#10844](https://www.acmicpc.net/problem/10844) ✅
+* 가장 긴 증가하는 부분 수열 [#11053](https://www.acmicpc.net/problem/11053) ✅
