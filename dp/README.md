@@ -14,3 +14,4 @@ Dynamic programming problems in [Baekjoon Online Judge(BOJ)](https://www.acmicpc
 * 오르막 수 [#11057](https://www.acmicpc.net/problem/11057) ✅
 * 카드 구매하기 [#11052](https://www.acmicpc.net/problem/11052) ✅
 * 합분해 [#2225](https://www.acmicpc.net/problem/2225) ✅
+* 타일채우기 [#2133](https://www.acmicpc.net/problem/2133) ✅
