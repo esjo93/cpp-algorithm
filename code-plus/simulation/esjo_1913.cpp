@@ -8,7 +8,7 @@ vector<vector<int> > v;
 int dy[4] = {-1, 0, 1, 0};
 int dx[4] = {0, 1, 0, -1};
 
-int check(int y, int x){
+bool check(int y, int x){
     if (y < 0 || y >= n || x < 0 || x >= n) return false;
     return true;
 }
