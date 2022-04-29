@@ -5,7 +5,7 @@ Simulation problems of code.plus lectures.
 ## Problems
 * 달팽이 [#1913](https://www.acmicpc.net/problem/1913) ✅ (30'25")
 * 달팽이2 [#1952](https://www.acmicpc.net/problem/1952) ✅ (16'33")
-* 달팽이3 [#1959](https://www.acmicpc.net/problem/1959)
+* 달팽이3 [#1959](https://www.acmicpc.net/problem/1959) ✅
 * 소코반 [#4577](https://www.acmicpc.net/problem/4577)
 * IP 주소 [#2064](https://www.acmicpc.net/problem/2064)
 * IPv6 [#3107](https://www.acmicpc.net/problem/3107)
