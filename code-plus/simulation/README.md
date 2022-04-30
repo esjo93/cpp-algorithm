@@ -8,7 +8,7 @@ Simulation problems of code.plus lectures.
 * 달팽이3 [#1959](https://www.acmicpc.net/problem/1959) ✅
 * 소코반 [#4577](https://www.acmicpc.net/problem/4577) ✅ (153'33")
 * IP 주소 [#2064](https://www.acmicpc.net/problem/2064) ✅ (76'45")
-* IPv6 [#3107](https://www.acmicpc.net/problem/3107)
+* IPv6 [#3107](https://www.acmicpc.net/problem/3107) ✅ (36'11")
 * 색종이 - 3 [#2571](https://www.acmicpc.net/problem/2571)
 * 스타트링크 타워 [#1089](https://www.acmicpc.net/problem/1089)
 * 마법사 상어와 파이어볼 [#20056](https://www.acmicpc.net/problem/20056)
